@@ -1,4 +1,4 @@
-# CSS Selectors Exercise just using Table HTML
+# CSS Selectors Exercise just using Table HTML & style with CSS
 
 ## Data Structure
 * Create **Periodic Table** just using Table HTML and style it with CSS
@@ -20,9 +20,6 @@
 
 
 
-
-
-
  ```css
  /* in CSS using pseudo classes like:
  nth-child()
@@ -31,9 +28,22 @@ nth-last-child() */
                                        
 ```
 
+```
+### See the code here
+* [HTML](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Periodic-Table/blob/master/index.html)
+* [CSS](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Periodic-Table/blob/master/css/style.css)
+
+
+
+
+
+
+
+
 ### Resources
 * [Pseudo-classes from MDN WEb Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 * [Pseudo-classes from w3schools](https://www.w3schools.com/css/css_pseudo_classes.asp)
+* [How nth-child Works](https://css-tricks.com/how-nth-child-works/)
 
 #### Result
 
