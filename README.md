@@ -28,15 +28,10 @@ nth-last-child() */
                                        
 ```
 
-```
+
 ### See the code here
 * [HTML](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Periodic-Table/blob/master/index.html)
 * [CSS](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Periodic-Table/blob/master/css/style.css)
-
-
-
-
-
 
 
 
