@@ -18,6 +18,7 @@
 
 ```
 
+- [Click here to see HTML Code](index.html)
 
 
  ```css
@@ -27,7 +28,7 @@ nth-first-child()
 nth-last-child() */
                                        
 ```
-
+- [Click here to see CSS Code](css/style.css)
 
 ### See the code here
 * [HTML](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Periodic-Table/blob/master/index.html)
