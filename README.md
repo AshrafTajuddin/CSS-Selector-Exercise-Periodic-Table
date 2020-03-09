@@ -30,9 +30,6 @@ nth-last-child() */
 ```
 - [Click here to see CSS Code](css/style.css)
 
-### See the code here
-* [HTML](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Periodic-Table/blob/master/index.html)
-* [CSS](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Periodic-Table/blob/master/css/style.css)
 
 
 
